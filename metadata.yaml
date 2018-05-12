@@ -1,0 +1,35 @@
+_repo: Handbook-on-Japanning--2nd-Edition--13-For-Ironware-Tinware-Wood-Etc.-With-Sections-on-Tinpla__15622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, William Norman
+    gutenberg_agent_id: '6166'
+    url: http://www.gutenberg.org/2009/agents/6166
+description: ''
+edition_note: Second Edition, Revised and Enlarged, under title "A Handbook on Japanning"—January,
+  1913
+gutenberg_bookshelf:
+- Manufacturing
+- Art
+- Technology
+- Crafts
+gutenberg_issued: '2005-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15622'
+  lccn: '13015594'
+language: en
+publication_note: "London\r\nScott, Greenwood And Son\r\n\"The Oil And Colour Trades\
+  \ Journal\" Offices\r\n8 Broadway, Ludgate, E.C.\r\n1913"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japanning'
+- !lcc 'TP'
+title: "Handbook on Japanning: 2nd Edition\r\nFor Ironware, Tinware, Wood, Etc. With\
+  \ Sections on Tinplating and Galvanizing"
+url: http://www.gutenberg.org/ebooks/15622
