@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6166'
     url: http://www.gutenberg.org/2009/agents/6166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15622#Handbook-on-Japanning--2nd-Edition--13-For-Ironware-Tinware-Wood-Etc.-With-Sections-on-Tinpla_
 edition_note: Second Edition, Revised and Enlarged, under title "A Handbook on Japanning"—January,
   1913
 gutenberg_bookshelf:
